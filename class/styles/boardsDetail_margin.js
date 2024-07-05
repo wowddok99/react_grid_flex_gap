@@ -16,12 +16,12 @@ export const Wrraper = styled.div`
     box-shadow: 0px 0px 10px gray;
 `
 
-export const ProfileWrapper = styled.div`
+export const InfoWrapper = styled.div`
   display: flex;
   flex-direction: row;
 `
 
-export const InfoImageProfile = styled.img`
+export const ProfileImage = styled.img`
   margin-right: 10px;
   width: 46.67px;
   height: 46.67px;
@@ -39,7 +39,7 @@ export const Line = styled.div`
   margin-top: 10px;
 `
 
-export const InfoWrapper = styled.div`
+export const ProfileWrapper = styled.div`
   display: flex;
   flex-direction: column;
   margin-left: 5px;
