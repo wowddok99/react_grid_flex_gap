@@ -1,5 +1,4 @@
 import styled from "@emotion/styled";
-import { execOnce } from "next/dist/shared/lib/utils";
 
 export const Wrraper = styled.div`
     font-family: "NotoSansKR-Regular";
