@@ -12,7 +12,7 @@ export const Wrapper = styled.div`
     /* grid-template-columns: 1fr 2.5fr 0.5fr 0.5fr 0.5fr; */
     grid-template-columns: repeat(5, 1fr);
     grid-auto-rows: minmax(150px,auto);
-    grid-gap: 1rem;
+    grid-gap: 1em;
 
     div {
         background-color: whitesmoke;
